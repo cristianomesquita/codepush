@@ -10,7 +10,7 @@ class App extends Component {
   render() {
     return (
       <View style={styles.container}>
-        <Text style={styles.welcome}>Code Push</Text>
+        <Text style={styles.welcome}>Code Push Testing</Text>
       </View>
     )
   }
